@@ -80,14 +80,14 @@ select {
     font-weight: 400;
     font-size: 16px;
     list-style-image: url(assets/images/Vector-2.svg);
-    padding-left: 25px;
+    padding-left: 20px;
     /* Стили для маркированного списка во второй секции */
 }
 
 .books-list {
     font-weight: 400;
     font-size: 16px;
-    padding-left: 25px;
+    padding-left: 20px;
     /* Стили для нумерованного списка во второй секции */
 }
 
@@ -124,9 +124,10 @@ select {
 }
 
 table {
+    font-size: 14px;
     width: 300px;
     border: 1px solid #95a1bb;
-     border-collapse: collapse;
+    border-collapse: collapse;
     /* Стили для таблицы */
 }
 
